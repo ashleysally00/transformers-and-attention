@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You might have heard a lot of talk about transformers lately. The word Transformers used to mean towering robots from movies who morphed into cars like metal gymnasts onscreen. Today, Transformers are used in Natural Language Processing. NLP is a part of many chatbots and AI integrations. You might hear about them more because they are increasingly becoming a part of everyday language when it comes to AI, as they play a crucial role in modern applications.
+You might have heard a lot of talk about transformers lately. The word Transformers used to mean towering robots from movies who morphed into cars like metal gymnasts onscreen. Today, transformers are used in Natural Language Processing. NLP is a part of many chatbots and AI integrations. You might hear about them more because they are increasingly becoming a part of everyday language when it comes to AI, as they play a crucial role in modern applications.
 
 ```mermaid
 %%{init: {'theme': 'neutral'}}%%
