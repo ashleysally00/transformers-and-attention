@@ -1,5 +1,7 @@
 # Understanding Transformers
 
+<img src="https://raw.githubusercontent.com/ashleysally00/transformers-and-attention/main/blue-transformer.svg" alt="Cute Transformer Robot" align="right" width="160">
+
 This repository contains two complementary explanations of Transformer architecture:
 
 ## 1. [Technical Deep Dive](technical-transformer-explanation.md)
