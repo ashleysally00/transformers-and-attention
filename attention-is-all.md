@@ -78,6 +78,8 @@ graph LR
 
 ## Impact and Legacy
 
+<img src="https://raw.githubusercontent.com/ashleysally00/transformers-and-attention/main/orange-transformer.svg" alt="Cute Orange Transformer Robot" width="100"/>
+
 Since its publication, "Attention Is All You Need" has revolutionized NLP and beyond:
 
 - Models like **BERT**, **GPT-3/4**, and **Vision Transformers (ViT)** are direct descendants of this work.
