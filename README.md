@@ -13,7 +13,7 @@ Detailed technical explanation of the original 2017 "Attention Is All You Need" 
 - Technical practitioners
 - Those implementing Transformer models
 
-## 2. [Simple Explanation](simple-transformer-explanation.md)
+## [Simple Explanation](https://github.com/ashleysally00/transformers-and-attention/blob/main/transformers.md)
 
 Accessible overview of Transformers and their impact. Best for:
 
