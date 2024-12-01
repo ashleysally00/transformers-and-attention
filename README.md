@@ -31,3 +31,9 @@ Both explanations include helpful visualizations:
 - Visual explanation of the attention mechanism
 
 Choose the explanation that best matches your technical background and needs!
+
+# Learning Resources
+
+You can play games to learn skills in the Google Arcade or earn badges through Google Cloud Skills Boost.  
+Check out the [Learn and Explore page](https://github.com/ashleysally00/transformers-and-attention/blob/main/learn-and-explore.md) for more details.
+
