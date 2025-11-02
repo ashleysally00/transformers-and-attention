@@ -1,8 +1,8 @@
 # Understanding Transformers
 
-## [Technical Deep Dive](https://github.com/ashleysally00/transformers-and-attention/blob/main/attention-is-all.md)
+## [Technical Deep Dive](https://github.com/ashleysally00/transformers-and-attention/blob/main/docs/attention-is-all.md)
 
-<img src="https://raw.githubusercontent.com/ashleysally00/transformers-and-attention/main/blue-transformer.svg" alt="Cute Transformer Robot" align="right" width="200"/>
+<img src="https://raw.githubusercontent.com/ashleysally00/transformers-and-attention/main/images/blue-transformer.svg" alt="Cute Transformer Robot" align="right" width="200"/>
 
 This repository contains two complementary explanations of Transformer architecture:
 
@@ -13,7 +13,7 @@ Detailed technical explanation of the original 2017 "Attention Is All You Need" 
 - Technical practitioners
 - Those implementing Transformer models
 
-## [Simple Explanation](https://github.com/ashleysally00/transformers-and-attention/blob/main/transformers.md)
+## [Simple Explanation](https://github.com/ashleysally00/transformers-and-attention/blob/main/docs/transformers.md)
 
 Accessible overview of Transformers and their impact. Best for:
 
@@ -34,6 +34,5 @@ Choose the explanation that best matches your technical background and needs!
 
 # Learning Resources
 
-You can play games to learn skills, perks in the Google Arcade or earn badges through Google Cloud Skills Boost for your profiles.
-Check out the [Learn and Explore page](https://github.com/ashleysally00/transformers-and-attention/blob/main/learn-and-explore.md) for more details.
-
+You can play games to learn skills, perks in the Google Arcade, or earn badges through Google Cloud Skills Boost for your profiles.  
+Check out the [Learn and Explore page](https://github.com/ashleysally00/transformers-and-attention/blob/main/docs/learn-and-explore.md) for more details.
