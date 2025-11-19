@@ -2,16 +2,18 @@
 
 "Attention Is All You Need" is a groundbreaking research paper published in 2017 by Ashish Vaswani et al. It introduced the Transformer model, a novel neural network architecture that has since become the foundation of many modern advancements in machine learning, particularly in natural language processing (NLP).
 
+
 ```mermaid
 %%{init: {'theme': 'neutral'}}%%
 graph TB
     subgraph "High-Level Transformer Architecture"
+        s[" "]
         Input[Input Sequence] --> Encoder
         Encoder --> EncoderOutput[Encoded Representation]
         EncoderOutput --> Decoder
         Output[Output Sequence] --> Decoder
         Decoder --> FinalOutput[Final Output]
-    end
+    end    
 ```
 
 ## Key Contributions of the Paper
