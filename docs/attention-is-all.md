@@ -91,4 +91,4 @@ This paper has had a transformative (pun intended) impact on AI research and con
 
 ---
 
-**Looking for a simpler explanation?** See the [beginner-friendly overview](./docs/transformers.md).
+**Looking for a simpler explanation?** See the [beginner-friendly overview](docs/transformers.md).
