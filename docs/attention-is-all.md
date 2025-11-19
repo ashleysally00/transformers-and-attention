@@ -76,7 +76,6 @@ graph LR
 4. **Scalability:**
    - By processing all tokens in parallel (thanks to self-attention), the Transformer model significantly reduced training time compared to earlier architectures like LSTMs and GRUs.
 
-[Rest of your original content...]
 
 ## Impact and Legacy
 
@@ -89,3 +88,7 @@ Since its publication, "Attention Is All You Need" has revolutionized NLP and be
 - The paper has influenced fields like computer vision, speech processing, and even protein folding (e.g., AlphaFold).
 
 This paper has had a transformative (pun intended) impact on AI research and continues to shape the future of deep learning.
+
+---
+
+**Looking for a simpler explanation?** See the [beginner-friendly overview](./docs/transformers.md).
