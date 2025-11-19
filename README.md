@@ -76,11 +76,10 @@ graph LR
 4. **Scalability:**
    - By processing all tokens in parallel (thanks to self-attention), the Transformer model significantly reduced training time compared to earlier architectures like LSTMs and GRUs.
 
-[Rest of your original content...]
 
 ## Impact and Legacy
 
-<img src="../images/orange-transformer.svg" alt="Cute Orange Transformer Robot" width="100"/>
+<img src="/images/orange-transformer.svg" alt="Cute Orange Transformer Robot" width="100"/>
 
 
 Since its publication, "Attention Is All You Need" has revolutionized NLP and beyond:
@@ -88,15 +87,8 @@ Since its publication, "Attention Is All You Need" has revolutionized NLP and be
 - Models like **BERT**, **GPT-3/4**, and **Vision Transformers (ViT)** are direct descendants of this work.
 - The paper has influenced fields like computer vision, speech processing, and even protein folding (e.g., AlphaFold).
 
-
-**Looking for a simpler explanation?** See the [beginner-friendly overview](./docs/simple-explanation.md).
-
 This paper has had a transformative (pun intended) impact on AI research and continues to shape the future of deep learning.
 
+---
 
-
-
-
-
-
-
+**Looking for a simpler explanation?** See the [beginner-friendly overview](docs/transformers.md).
